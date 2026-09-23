@@ -4,7 +4,7 @@
 
 Add an AI customer support employee to the website you are building, straight from your AI coding tool.
 Your coding agent connects ORYKSA, **teaches the agent the whole site** (pages, prices, FAQ) and installs a
-chat that answers visitors with **text and voice**. The same agent can later answer on WhatsApp, Telegram and the phone.
+chat that answers visitors with **text and voice**. The same employee also answers your customers on WhatsApp and Telegram.
 
 - **Server URL:** `https://mcp.oryksa.com` (remote, streamable HTTP, OAuth 2.1 sign-in in the browser)
 - **Website:** https://mcp.oryksa.com

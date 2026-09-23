@@ -8,7 +8,7 @@ chat that answers visitors with **text and voice**. The same agent can later ans
 
 - **Server URL:** `https://mcp.oryksa.com` (remote, streamable HTTP, OAuth 2.1 sign-in in the browser)
 - **Website and live demo:** https://mcp.oryksa.com · https://mcp.oryksa.com/demo
-- **Official MCP Registry:** `com.oryksa/ai-employees`
+- **Official MCP Registry:** [`com.oryksa/ai-employees`](https://registry.modelcontextprotocol.io/v0/servers?search=com.oryksa)
 
 ## Install
 
@@ -63,5 +63,9 @@ Accounts connected through the MCP get **+100 interactions per day for the first
 
 Sign in happens in your browser with OAuth; the tool never sees your password. The tools cannot delete the account,
 make payments or connect WhatsApp. Privacy policy: https://oryksa.com/en/privacy/#mcp · Contact: info@oryksa.com
+
+## Author
+
+Created by **Weslley Harakawa** · [GitHub](https://github.com/WeslleyHarakawa) · [LinkedIn](https://www.linkedin.com/in/weslleyharakawa)
 
 © ORYKSA AI Employees · W8 Atlantic Unipessoal Lda

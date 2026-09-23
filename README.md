@@ -9,6 +9,7 @@ chat that answers visitors with **text and voice**. The same agent can later ans
 - **Server URL:** `https://mcp.oryksa.com` (remote, streamable HTTP, OAuth 2.1 sign-in in the browser)
 - **Website:** https://mcp.oryksa.com
 - **Live demo:** https://mcp.oryksa.com/demo/en
+- **Claude connectors directory:** [claude.ai/directory/connectors/oryksa](https://claude.ai/directory/connectors/oryksa)
 - **Official MCP Registry:** [`com.oryksa/ai-employees`](https://registry.modelcontextprotocol.io/v0/servers?search=com.oryksa)
 
 ## Live demo

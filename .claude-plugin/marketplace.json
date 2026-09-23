@@ -1,0 +1,11 @@
+{
+  "name": "oryksa-ai-employees",
+  "owner": { "name": "ORYKSA AI Employees", "email": "info@oryksa.com" },
+  "plugins": [
+    {
+      "name": "oryksa-ai-employees",
+      "source": "./oryksa-plugin",
+      "description": "AI customer support chat that learns your whole website (MCP server + skill)."
+    }
+  ]
+}

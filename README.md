@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" width="96" alt="ORYKSA"></p>
+<p align="center"><img src="docs/oryksa_logo.png" width="360" alt="ORYKSA"></p>
 
 # ORYKSA AI Employees (MCP server)
 
@@ -7,8 +7,22 @@ Your coding agent connects ORYKSA, **teaches the agent the whole site** (pages, 
 chat that answers visitors with **text and voice**. The same agent can later answer on WhatsApp, Telegram and the phone.
 
 - **Server URL:** `https://mcp.oryksa.com` (remote, streamable HTTP, OAuth 2.1 sign-in in the browser)
-- **Website and live demo:** https://mcp.oryksa.com · https://mcp.oryksa.com/demo
+- **Website:** https://mcp.oryksa.com
+- **Live demo:** https://mcp.oryksa.com/demo/en
 - **Official MCP Registry:** [`com.oryksa/ai-employees`](https://registry.modelcontextprotocol.io/v0/servers?search=com.oryksa)
+
+## Live demo
+
+A fictional winery website with the ORYKSA chat installed through the MCP. Open it and talk to the agent by text or voice:
+**https://mcp.oryksa.com/demo/en**
+
+[![Demo website with the ORYKSA chat](docs/demo_site.png)](https://mcp.oryksa.com/demo/en)
+
+The agent answers from what it learned on the site (prices, hours, visits):
+
+[![The agent answering a visitor](docs/demo_chat_answer.png)](https://mcp.oryksa.com/demo/en)
+
+[![ORYKSA AI Employees MCP landing page](docs/landing.png)](https://mcp.oryksa.com)
 
 ## Install
 

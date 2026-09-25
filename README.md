@@ -1,4 +1,5 @@
 <p align="center"><img src="docs/oryksa_logo.png" width="360" alt="ORYKSA"></p>
+<p align="center"><a href="https://glama.ai/mcp/connectors/com.oryksa/ai-employees"><img src="https://glama.ai/mcp/connectors/com.oryksa/ai-employees/badges/score.svg" alt="ORYKSA AI Employees MCP connector on Glama"></a></p>
 
 # ORYKSA AI Employees (MCP server)
 
@@ -10,6 +11,8 @@ chat that answers visitors with **text and voice**. The same employee also answe
 - **Website:** https://mcp.oryksa.com
 - **Live demo:** https://mcp.oryksa.com/demo/en
 - **Claude connectors directory:** [claude.ai/directory/connectors/oryksa](https://claude.ai/directory/connectors/oryksa)
+- **Listed in:** [awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) · [Glama](https://glama.ai/mcp/connectors/com.oryksa/ai-employees)
+- **Developers portal (API, webhooks, SDKs):** https://developers.oryksa.com · SDK: [oryksa/oryksa-js](https://github.com/oryksa/oryksa-js)
 - **Official MCP Registry:** [`com.oryksa/ai-employees`](https://registry.modelcontextprotocol.io/v0/servers?search=com.oryksa)
 
 ## Live demo

@@ -58,7 +58,7 @@ Después ejecuta `codex mcp login oryksa-ai-employees`.
 
 ## Solo pídelo
 
-> Add an AI customer support chat to this site with ORYKSA and teach it everything on the site.
+> Añade a este sitio un chat de atención al cliente con la IA de ORYKSA y enséñale todo lo que hay en el sitio.
 
 ## Herramientas
 

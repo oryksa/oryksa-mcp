@@ -89,6 +89,6 @@ make payments or connect WhatsApp. Privacy policy: https://oryksa.com/en/privacy
 - Website: https://harakawa.tech
 - LinkedIn: https://www.linkedin.com/in/weslleyharakawa/
 - Instagram: https://www.instagram.com/weslley.harakawa
-- ORYKSA AI Employees: https://oryksa.com (X: https://x.com/oryksa, Instagram: https://www.instagram.com/oryksaai, YouTube: https://www.youtube.com/@ORYKSAAI)
+- ORYKSA AI Employees: https://oryksa.com (X: https://x.com/oryksa, Instagram: https://www.instagram.com/oryksaai, YouTube: https://www.youtube.com/@ORYKSA)
 
 © ORYKSA AI Employees · W8 Atlantic Unipessoal Lda
